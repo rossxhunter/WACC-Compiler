@@ -1,0 +1,4 @@
+begin
+    char c = 'g';
+    bool b = call isDigit(c)
+end

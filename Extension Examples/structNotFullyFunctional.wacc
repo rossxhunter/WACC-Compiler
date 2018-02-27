@@ -1,0 +1,8 @@
+begin
+    struct person
+        string name;
+        int age
+    end
+    person p = new person("Ross", 19);
+    int pAge = h.age
+end
